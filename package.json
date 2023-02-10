@@ -25,7 +25,7 @@
     "uuid": "24b8fa8e-2ee8-42ea-9d3a-c0f263367a4b"
   },
   "engines": {
-    "node": ">=14.19.1 <=19.6.0",
+    "node": ">=14.19.1 <=18.x.x",
     "npm": ">=6.0.0"
   },
   "resolutions": {
